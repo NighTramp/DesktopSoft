@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Working\DesktopSoft\InventDev\InventDev\bin\Debug\InventDev.exe.config
+C:\Users\User\Desktop\Working\DesktopSoft\InventDev\InventDev\bin\Debug\InventDev.exe
+C:\Users\User\Desktop\Working\DesktopSoft\InventDev\InventDev\bin\Debug\InventDev.pdb
+C:\Users\User\Desktop\Working\DesktopSoft\InventDev\InventDev\obj\Debug\InventDev.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Working\DesktopSoft\InventDev\InventDev\obj\Debug\InventDev.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Working\DesktopSoft\InventDev\InventDev\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Working\DesktopSoft\InventDev\InventDev\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Working\DesktopSoft\InventDev\InventDev\obj\Debug\InventDev_MarkupCompile.cache
+C:\Users\User\Desktop\Working\DesktopSoft\InventDev\InventDev\obj\Debug\InventDev_MarkupCompile.lref
+C:\Users\User\Desktop\Working\DesktopSoft\InventDev\InventDev\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Working\DesktopSoft\InventDev\InventDev\obj\Debug\InventDev.g.resources
+C:\Users\User\Desktop\Working\DesktopSoft\InventDev\InventDev\obj\Debug\InventDev.Properties.Resources.resources
+C:\Users\User\Desktop\Working\DesktopSoft\InventDev\InventDev\obj\Debug\InventDev.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Working\DesktopSoft\InventDev\InventDev\obj\Debug\InventDev.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Working\DesktopSoft\InventDev\InventDev\obj\Debug\InventDev.exe
+C:\Users\User\Desktop\Working\DesktopSoft\InventDev\InventDev\obj\Debug\InventDev.pdb
